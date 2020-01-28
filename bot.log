@@ -1,0 +1,1179 @@
+2019-11-10 20:28:55,445 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:28:58,464 DEBUG Обработка intent Приветствие
+2019-11-10 20:28:58,913 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:29:02,534 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:29:04,216 DEBUG Обработка intent Дата проведения
+2019-11-10 20:29:04,371 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:29:07,772 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:29:11,815 DEBUG Обработка intent Место проведения
+2019-11-10 20:29:11,935 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:29:16,517 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:29:20,094 DEBUG Обработка intent Регистрация
+2019-11-10 20:29:20,241 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:29:45,725 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:29:51,524 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:29:56,038 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:29:57,301 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:30:02,255 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:30:06,043 INFO Зарегистрирован участник Вапр email: sdf@sdfg.fgh
+2019-11-10 20:30:06,225 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:30:09,266 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:30:12,661 DEBUG Интент не распознан
+2019-11-10 20:30:12,942 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:30:20,857 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:30:22,780 DEBUG Обработка intent До встречи
+2019-11-10 20:30:22,959 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:32:55,528 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:32:58,693 DEBUG Обработка intent Регистрация
+2019-11-10 20:32:58,839 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-10 20:33:00,973 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-10 20:33:02,035 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-19 21:21:04,956 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-19 21:21:10,476 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-19 21:21:12,342 DEBUG Обработка intent Регистрация
+2019-11-19 21:21:12,693 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-19 21:21:15,610 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-19 21:21:21,212 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-11-19 21:21:23,291 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-19 21:21:33,322 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-11-19 21:23:15,360 INFO Зарегистрирован участник olya email: ol@ol.jl
+2019-11-19 21:23:15,650 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 22:27:35,895 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:27:40,902 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:27:41,578 DEBUG Обработка intent Приветствие
+2019-12-01 22:27:41,741 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 22:27:46,054 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:27:48,581 DEBUG Обработка intent Место проведения
+2019-12-01 22:27:48,739 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 22:27:52,698 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:27:55,230 DEBUG Обработка intent Дата проведения
+2019-12-01 22:27:55,342 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 22:27:58,215 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:28:00,152 DEBUG Интент не распознан
+2019-12-01 22:28:00,176 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 22:28:07,732 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:28:11,515 DEBUG Обработка intent Регистрация
+2019-12-01 22:28:11,668 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 22:28:14,933 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:28:16,049 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 22:28:19,953 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:28:24,946 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:28:30,879 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 22:28:33,916 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 64, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 84, in on_event
+    self.continue_scenario(user_id=user_id, state=state, text=text)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 118, in continue_scenario
+    finish_handler = getattr(handler, next_step['finish'])
+AttributeError: 'function' object has no attribute 'finish_registration_handler'
+2019-12-01 22:28:33,924 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 23:09:47,640 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:09:50,739 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 23:09:53,177 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:09:58,185 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:10:03,284 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:10:08,032 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 85, in on_event
+    self.continue_scenario(user_id=user_id, state=state, text=text)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 113, in continue_scenario
+    self.send_step(next_step, user_id, state.context)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 150, in send_step
+    self.send_image(img_to_send, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 135, in send_image
+    upload_url = self.api.photos.getMessagesUploadServer['upload_url']
+TypeError: 'VkApiMethod' object is not subscriptable
+2019-12-01 23:10:08,049 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 23:14:37,641 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:14:38,947 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 23:14:46,973 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:14:48,411 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 85, in on_event
+    self.continue_scenario(user_id=user_id, state=state, text=text)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 113, in continue_scenario
+    self.send_step(next_step, user_id, state.context)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 150, in send_step
+    self.send_image(img_to_send, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 135, in send_image
+    upload_url = self.api.photos.getMessagesUploadServer['upload_url']
+TypeError: 'VkApiMethod' object is not subscriptable
+2019-12-01 23:14:48,430 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 23:15:10,198 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:17:28,533 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:19:12,429 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 85, in on_event
+    self.continue_scenario(user_id=user_id, state=state, text=text)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 113, in continue_scenario
+    self.send_step(next_step, user_id, state.context)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 151, in send_step
+    self.send_image(img_to_send, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 136, in send_image
+    upload_url = server['upload_url']
+TypeError: 'VkApiMethod' object is not subscriptable
+2019-12-01 23:19:54,713 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:20:15,608 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 85, in on_event
+    self.continue_scenario(user_id=user_id, state=state, text=text)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 113, in continue_scenario
+    self.send_step(next_step, user_id, state.context)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 151, in send_step
+    self.send_image(img_to_send, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 136, in send_image
+    upload_url = server.get('upload_url')
+TypeError: __call__() takes 1 positional argument but 2 were given
+2019-12-01 23:27:13,082 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:27:49,536 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:28:26,735 INFO Сценарий {'first_step': 'step1', 'steps': {'step1': {'text': 'Для регистрации введите имя. Оно будет написано на бэйджике.', 'failure_text': 'Имя должно начинатся с буквы, состоять из 3-30 символов, допускается использование дефиса. Повторите попытку.', 'handler': 'name_handler', 'next_step': 'step2'}, 'step2': {'text': 'Введите email. На указанный email будут направлены все данные', 'failure_text': 'Email указан некорректно. Повторите попытку', 'handler': 'email_handler', 'next_step': 'step3'}, 'step3': {'text': '{name}, спвсибо за регистрацию! Мы отправили билеты а ваш адрес {email}.', 'image': 'ticket_handler', 'failure_text': None, 'handler': None, 'next_step': None, 'finish': 'finish_registration_handler'}}} завершен
+2019-12-01 23:37:48,941 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:37:54,000 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:37:54,897 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 23:38:02,961 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:38:05,092 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 85, in on_event
+    self.continue_scenario(user_id=user_id, state=state, text=text)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 113, in continue_scenario
+    self.send_step(next_step, user_id, state.context)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 158, in send_step
+    self.send_image(img_to_send, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 138, in send_image
+    owner_id = img_data['owner_id']
+TypeError: list indices must be integers or slices, not str
+2019-12-01 23:38:05,129 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 23:38:55,954 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:38:57,305 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 85, in on_event
+    self.continue_scenario(user_id=user_id, state=state, text=text)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 113, in continue_scenario
+    self.send_step(next_step, user_id, state.context)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 158, in send_step
+    self.send_image(img_to_send, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 139, in send_image
+    media_id = img_data[0]['media_id']
+KeyError: 'media_id'
+2019-12-01 23:38:57,346 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 23:39:50,792 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:39:53,071 INFO Сценарий {'first_step': 'step1', 'steps': {'step1': {'text': 'Для регистрации введите имя. Оно будет написано на бэйджике.', 'failure_text': 'Имя должно начинатся с буквы, состоять из 3-30 символов, допускается использование дефиса. Повторите попытку.', 'handler': 'name_handler', 'next_step': 'step2'}, 'step2': {'text': 'Введите email. На указанный email будут направлены все данные', 'failure_text': 'Email указан некорректно. Повторите попытку', 'handler': 'email_handler', 'next_step': 'step3'}, 'step3': {'text': '{name}, спвсибо за регистрацию! Мы отправили билеты а ваш адрес {email}.', 'image': 'ticket_handler', 'failure_text': None, 'handler': None, 'next_step': None, 'finish': 'finish_registration_handler'}}} завершен
+2019-12-01 23:41:13,992 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:41:16,352 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-01 23:57:27,935 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:57:37,862 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-01 23:57:39,723 INFO Сценарий {'first_step': 'step1', 'steps': {'step1': {'text': 'Для регистрации введите имя. Оно будет написано на бэйджике.', 'failure_text': 'Имя должно начинатся с буквы, состоять из 3-30 символов, допускается использование дефиса. Повторите попытку.', 'handler': 'name_handler', 'next_step': 'step2'}, 'step2': {'text': 'Введите email. На указанный email будут направлены все данные', 'failure_text': 'Email указан некорректно. Повторите попытку', 'handler': 'email_handler', 'next_step': 'step3'}, 'step3': {'text': '{name}, спвсибо за регистрацию! Мы отправили билеты а ваш адрес {email}.', 'image': 'ticket_handler', 'failure_text': None, 'handler': None, 'next_step': None, 'finish': 'finish_registration_handler'}}} завершен
+2019-12-03 20:38:41,748 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:38:41,749 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:38:46,937 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:38:46,937 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:38:47,944 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:38:47,944 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:38:47,974 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:38:47,974 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:39:09,218 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:39:09,218 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:39:14,301 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:39:14,302 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:39:16,203 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:39:16,204 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:39:16,217 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:39:16,218 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:40:31,122 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:40:31,126 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:40:36,741 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:43:15,866 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:43:52,729 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:43:55,515 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:44:48,863 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:44:56,473 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:44:59,520 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:45:06,497 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:45:17,267 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:45:18,362 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:45:54,771 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:46:00,549 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:47:17,379 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:47:17,380 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:47:21,867 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:47:21,867 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:47:21,941 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:47:21,942 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:48:20,274 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:48:20,275 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:48:21,723 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:50:50,639 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:50:52,361 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:52:04,808 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:52:04,811 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:52:06,429 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:52:45,000 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:52:57,190 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:53:06,387 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 20:53:41,506 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:53:46,782 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:53:51,071 INFO Сценарий registration завершен
+2019-12-03 20:54:18,259 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:54:21,356 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 20:56:28,873 INFO Сценарий registration завершен
+2019-12-03 21:05:30,568 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:05:36,063 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:05:41,804 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:05:49,417 INFO Сценарий registration завершен
+2019-12-03 21:15:02,833 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 368, in rollback_and_reraise
+    rollback()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 411, in rollback
+    transact_reraise(RollbackException, exceptions)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 363, in transact_reraise
+    reraise(exc_class, new_exc, tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 408, in rollback
+    try: cache.rollback()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1829, in rollback
+    cache.close(rollback=True)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1845, in close
+    try: provider.rollback(connection, cache)
+  File "<string>", line 2, in rollback
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 73, in wrap_dbapi_exceptions
+    raise InterfaceError(e)
+pony.orm.core.RollbackException: InterfaceError: connection already closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 529, in new_func
+    commit()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 381, in commit
+    rollback_and_reraise(sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 370, in rollback_and_reraise
+    reraise(*exc_info)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 379, in commit
+    cache.flush()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1891, in flush
+    if obj is not None: obj._save_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5395, in _save_
+    elif status == 'marked_to_delete': obj._save_deleted_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5334, in _save_deleted_
+    cursor = database._exec_sql(sql, arguments, start_transaction=True)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 945, in _exec_sql
+    connection = cache.reconnect(e)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1779, in reconnect
+    if not provider.should_reconnect(exc): reraise(*sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 943, in _exec_sql
+    try: new_id = provider.execute(cursor, sql, arguments, returning_id)
+  File "<string>", line 2, in execute
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 67, in wrap_dbapi_exceptions
+    raise OperationalError(e)
+pony.orm.dbapiprovider.OperationalError: terminating connection due to administrator command
+SSL connection has been closed unexpectedly
+
+2019-12-03 21:15:02,829 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 368, in rollback_and_reraise
+    rollback()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 411, in rollback
+    transact_reraise(RollbackException, exceptions)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 363, in transact_reraise
+    reraise(exc_class, new_exc, tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 408, in rollback
+    try: cache.rollback()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1829, in rollback
+    cache.close(rollback=True)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1845, in close
+    try: provider.rollback(connection, cache)
+  File "<string>", line 2, in rollback
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 73, in wrap_dbapi_exceptions
+    raise InterfaceError(e)
+pony.orm.core.RollbackException: InterfaceError: connection already closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 529, in new_func
+    commit()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 381, in commit
+    rollback_and_reraise(sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 370, in rollback_and_reraise
+    reraise(*exc_info)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 379, in commit
+    cache.flush()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1891, in flush
+    if obj is not None: obj._save_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5395, in _save_
+    elif status == 'marked_to_delete': obj._save_deleted_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5334, in _save_deleted_
+    cursor = database._exec_sql(sql, arguments, start_transaction=True)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 945, in _exec_sql
+    connection = cache.reconnect(e)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1779, in reconnect
+    if not provider.should_reconnect(exc): reraise(*sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 943, in _exec_sql
+    try: new_id = provider.execute(cursor, sql, arguments, returning_id)
+  File "<string>", line 2, in execute
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 67, in wrap_dbapi_exceptions
+    raise OperationalError(e)
+pony.orm.dbapiprovider.OperationalError: terminating connection due to administrator command
+SSL connection has been closed unexpectedly
+
+2019-12-03 21:15:02,884 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:15:02,884 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:15:02,885 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:15:02,885 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:15:02,885 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:15:02,885 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:15:02,885 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:15:02,885 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 50, in wrap_dbapi_exceptions
+    return func(provider, *args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 221, in connect
+    return provider.pool.connect()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 342, in connect
+    pool._connect()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbproviders/postgres.py", line 184, in _connect
+    pool.con = pool.dbapi_module.connect(*pool.args, **pool.kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/psycopg2/__init__.py", line 126, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "chatbot.py", line 82, in on_event
+    state = UserStates.get(user_id=user_id)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 3974, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 4077, in _find_one_
+    if obj is None: obj = entity._find_in_db_(avdict, unique, for_update, nowait, skip_locked)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 4136, in _find_in_db_
+    cursor = database._exec_sql(sql, arguments)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 938, in _exec_sql
+    connection = cache.prepare_connection_for_query_execution()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1800, in prepare_connection_for_query_execution
+    if connection is None: connection = cache.connect()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1764, in connect
+    connection, is_new_connection = provider.connect()
+  File "<string>", line 2, in connect
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 67, in wrap_dbapi_exceptions
+    raise OperationalError(e)
+pony.orm.dbapiprovider.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+2019-12-03 21:15:02,887 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:15:02,887 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:15:02,887 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:15:02,888 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 50, in wrap_dbapi_exceptions
+    return func(provider, *args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 221, in connect
+    return provider.pool.connect()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 342, in connect
+    pool._connect()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbproviders/postgres.py", line 184, in _connect
+    pool.con = pool.dbapi_module.connect(*pool.args, **pool.kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/psycopg2/__init__.py", line 126, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "chatbot.py", line 82, in on_event
+    state = UserStates.get(user_id=user_id)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 3974, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 4077, in _find_one_
+    if obj is None: obj = entity._find_in_db_(avdict, unique, for_update, nowait, skip_locked)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 4136, in _find_in_db_
+    cursor = database._exec_sql(sql, arguments)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 938, in _exec_sql
+    connection = cache.prepare_connection_for_query_execution()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1800, in prepare_connection_for_query_execution
+    if connection is None: connection = cache.connect()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1764, in connect
+    connection, is_new_connection = provider.connect()
+  File "<string>", line 2, in connect
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 67, in wrap_dbapi_exceptions
+    raise OperationalError(e)
+pony.orm.dbapiprovider.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+2019-12-03 21:15:02,907 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:15:02,907 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:15:02,907 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:15:02,907 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 50, in wrap_dbapi_exceptions
+    return func(provider, *args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 221, in connect
+    return provider.pool.connect()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 342, in connect
+    pool._connect()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbproviders/postgres.py", line 184, in _connect
+    pool.con = pool.dbapi_module.connect(*pool.args, **pool.kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/psycopg2/__init__.py", line 126, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 82, in on_event
+    state = UserStates.get(user_id=user_id)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 3974, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 4077, in _find_one_
+    if obj is None: obj = entity._find_in_db_(avdict, unique, for_update, nowait, skip_locked)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 4136, in _find_in_db_
+    cursor = database._exec_sql(sql, arguments)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 938, in _exec_sql
+    connection = cache.prepare_connection_for_query_execution()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1800, in prepare_connection_for_query_execution
+    if connection is None: connection = cache.connect()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1764, in connect
+    connection, is_new_connection = provider.connect()
+  File "<string>", line 2, in connect
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 67, in wrap_dbapi_exceptions
+    raise OperationalError(e)
+pony.orm.dbapiprovider.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+2019-12-03 21:18:19,158 DEBUG Обработка intent Приветствие
+2019-12-03 21:18:19,159 DEBUG Обработка intent Приветствие
+2019-12-03 21:18:19,293 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:19,293 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:19,362 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:19,363 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:23,661 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:18:23,661 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:18:29,300 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:18:29,301 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:18:30,609 DEBUG Обработка intent Приветствие
+2019-12-03 21:18:30,612 DEBUG Обработка intent Приветствие
+2019-12-03 21:18:30,889 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:30,890 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:30,892 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:30,893 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:34,459 DEBUG Обработка intent Дата проведения
+2019-12-03 21:18:34,460 DEBUG Обработка intent Дата проведения
+2019-12-03 21:18:34,601 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:34,601 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:34,644 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:34,644 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:44,174 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:18:44,174 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:18:48,330 DEBUG Обработка intent Регистрация
+2019-12-03 21:18:48,330 DEBUG Обработка intent Регистрация
+2019-12-03 21:18:48,456 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 543, in new_func
+    reraise(exc_type, exc, tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 529, in new_func
+    commit()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 381, in commit
+    rollback_and_reraise(sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 370, in rollback_and_reraise
+    reraise(*exc_info)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 379, in commit
+    cache.flush()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1891, in flush
+    if obj is not None: obj._save_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5393, in _save_
+    if status == 'created': obj._save_created_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5237, in _save_created_
+    % (obj, e.__class__.__name__, msg), e)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 106, in throw
+    raise exc
+pony.orm.core.TransactionIntegrityError: Object UserStates[new:1] cannot be stored in the database. IntegrityError: duplicate key value violates unique constraint "userstates_user_id_key"
+DETAIL:  Key (user_id)=(26174553) already exists.
+
+2019-12-03 21:18:48,463 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:48,463 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:48,468 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:48,468 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:51,118 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:18:51,118 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:18:52,246 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:52,246 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:52,312 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 543, in new_func
+    reraise(exc_type, exc, tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 529, in new_func
+    commit()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 381, in commit
+    rollback_and_reraise(sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 370, in rollback_and_reraise
+    reraise(*exc_info)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 379, in commit
+    cache.flush()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1891, in flush
+    if obj is not None: obj._save_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5394, in _save_
+    elif status == 'modified': obj._save_updated_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5305, in _save_updated_
+    throw(OptimisticCheckError, obj.find_updated_attributes())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 106, in throw
+    raise exc
+pony.orm.core.OptimisticCheckError: Object UserStates[3] was updated outside of current transaction. Changes: step ('step1' -> 'step2'), context ('{}' -> '{"name": "апро"}')
+2019-12-03 21:18:52,323 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:52,323 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:18:56,205 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:18:56,205 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:19:01,382 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:19:01,392 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:19:04,150 INFO Сценарий registration завершен
+2019-12-03 21:19:04,149 INFO Сценарий registration завершен
+2019-12-03 21:19:04,168 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 543, in new_func
+    reraise(exc_type, exc, tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 529, in new_func
+    commit()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 381, in commit
+    rollback_and_reraise(sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 370, in rollback_and_reraise
+    reraise(*exc_info)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 379, in commit
+    cache.flush()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1891, in flush
+    if obj is not None: obj._save_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5395, in _save_
+    elif status == 'marked_to_delete': obj._save_deleted_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5336, in _save_deleted_
+    throw(OptimisticCheckError, obj.find_updated_attributes())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 106, in throw
+    raise exc
+pony.orm.core.OptimisticCheckError: Object UserStates[3] was deleted outside of current transaction
+2019-12-03 21:19:04,181 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:04,182 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:04,183 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:04,183 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:04,194 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:04,195 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:04,195 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:04,196 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:08,597 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:19:08,597 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:19:13,084 DEBUG Обработка intent До встречи
+2019-12-03 21:19:13,085 DEBUG Обработка intent До встречи
+2019-12-03 21:19:13,249 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:13,249 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:13,303 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:19:13,304 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:23:15,977 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:23:15,979 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:23:18,158 DEBUG Обработка intent Приветствие
+2019-12-03 21:23:18,180 DEBUG Обработка intent Приветствие
+2019-12-03 21:23:18,354 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:26:40,270 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:26:40,272 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:26:42,536 DEBUG Обработка intent Приветствие
+2019-12-03 21:26:42,549 DEBUG Обработка intent Приветствие
+2019-12-03 21:26:42,817 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:27:25,844 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:27:50,157 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:28:16,632 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:28:16,632 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:28:20,808 DEBUG Обработка intent Приветствие
+2019-12-03 21:28:20,832 DEBUG Обработка intent Приветствие
+2019-12-03 21:28:21,046 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:28:21,046 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:28:21,051 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:28:21,051 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:30:00,696 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:30:00,699 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:30:03,429 DEBUG Обработка intent Приветствие
+2019-12-03 21:30:03,450 DEBUG Обработка intent Приветствие
+2019-12-03 21:30:03,886 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:30:46,306 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:30:46,308 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:30:50,407 DEBUG Обработка intent Приветствие
+2019-12-03 21:30:50,422 DEBUG Обработка intent Приветствие
+2019-12-03 21:30:50,557 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:30:50,558 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:30:50,574 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:30:50,575 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:30:54,733 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:30:54,734 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:30:55,833 DEBUG Интент не распознан
+2019-12-03 21:30:55,844 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:30:55,844 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:30:55,858 DEBUG Интент не распознан
+2019-12-03 21:30:55,879 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:30:55,879 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:32:51,202 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:32:51,202 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:32:52,989 DEBUG Интент не распознан
+2019-12-03 21:32:53,103 DEBUG Интент не распознан
+2019-12-03 21:32:53,112 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:32:53,112 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:32:53,151 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:32:53,152 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:32:56,584 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:32:56,601 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:32:57,703 DEBUG Интент не распознан
+2019-12-03 21:32:57,919 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:32:57,920 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:32:58,211 DEBUG Интент не распознан
+2019-12-03 21:32:58,221 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:32:58,221 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:48:13,112 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:48:13,112 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:48:15,129 DEBUG Интент не распознан
+2019-12-03 21:48:15,230 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:48:15,307 DEBUG Интент не распознан
+2019-12-03 21:48:15,320 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:48:15,320 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:48:15,351 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:50:27,262 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:50:27,263 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:50:29,007 DEBUG Интент не распознан
+2019-12-03 21:50:29,131 DEBUG Интент не распознан
+2019-12-03 21:50:29,134 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:50:29,135 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:50:29,144 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:50:29,144 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:53:41,276 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:53:41,276 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:53:44,458 DEBUG _____________________VkBotEventType.MESSAGE_NEW:________________________________
+2019-12-03 21:53:44,458 DEBUG Интент не распознан
+2019-12-03 21:53:44,613 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:53:44,614 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:53:44,634 DEBUG Интент не распознан
+2019-12-03 21:53:44,648 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:53:44,648 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:57:57,190 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:57:57,190 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 21:57:59,067 DEBUG Обработка intent Приветствие
+2019-12-03 21:57:59,065 DEBUG _____________________VkBotEventType.MESSAGE_NEW:________________________________
+2019-12-03 21:57:59,071 DEBUG Обработка intent Приветствие
+2019-12-03 21:57:59,071 DEBUG _____________________Отправка________________________________
+2019-12-03 21:57:59,337 DEBUG _____________________Отправка завершена________________________________
+2019-12-03 21:57:59,356 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:57:59,357 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:57:59,357 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 21:57:59,358 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:05:04,496 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:05:04,499 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:05:06,662 DEBUG _____________________VkBotEventType.MESSAGE_NEW:________________________________
+2019-12-03 22:05:06,662 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 73, in run
+    self.on_event(evn)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 95, in on_event
+    if any(token in text.lower() for token in intent['tokens']):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 95, in <genexpr>
+    if any(token in text.lower() for token in intent['tokens']):
+AttributeError: 'NoneType' object has no attribute 'lower'
+2019-12-03 22:06:25,704 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:06:27,766 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 73, in run
+    self.on_event(evn)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 94, in on_event
+    if any(token in text.lower() for token in intent['tokens']):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 94, in <genexpr>
+    if any(token in text.lower() for token in intent['tokens']):
+AttributeError: 'NoneType' object has no attribute 'lower'
+2019-12-03 22:08:41,382 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:11:41,324 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:11:44,584 DEBUG Обработка intent Приветствие
+2019-12-03 22:11:44,703 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:21:00,141 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:21:01,649 DEBUG Обработка intent Дата проведения
+2019-12-03 22:21:01,825 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:21:04,620 DEBUG Обработка intent Место проведения
+2019-12-03 22:21:04,869 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:21:40,022 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:21:41,788 DEBUG Обработка intent Приветствие
+2019-12-03 22:21:41,894 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:21:44,983 DEBUG Обработка intent Дата проведения
+2019-12-03 22:21:45,127 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:21:47,753 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:21:48,955 DEBUG Обработка intent Место проведения
+2019-12-03 22:21:49,087 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:21:52,766 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:21:55,402 DEBUG Обработка intent Регистрация
+2019-12-03 22:21:55,648 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:21:59,205 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:22:00,158 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:22:04,515 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:22:12,251 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:22:17,461 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:22:20,656 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:22:30,452 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:22:35,604 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:22:39,831 INFO Сценарий registration завершен
+2019-12-03 22:22:39,858 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:22:39,858 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:22:43,561 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:22:48,751 DEBUG Обработка intent До встречи
+2019-12-03 22:22:48,901 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:24:02,166 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:24:07,078 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:24:08,257 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 79, in on_event
+    user_id = int(event.object.peer_id)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2019-12-03 22:33:37,253 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:33:42,658 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:33:43,387 DEBUG Обработка intent Приветствие
+2019-12-03 22:33:43,510 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:33:46,291 DEBUG Обработка intent Место проведения
+2019-12-03 22:33:47,990 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:33:47,990 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:34:05,800 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:35:45,443 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:36:15,594 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:36:18,642 DEBUG Обработка intent Приветствие
+2019-12-03 22:36:18,789 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:36:21,065 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:36:22,528 DEBUG Обработка intent Место проведения
+2019-12-03 22:36:23,369 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 92, in on_event
+    self.send_intent(intent, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 164, in send_intent
+    self.send_image(intent['answer_image'], user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 138, in send_image
+    img_data = self.api.photos.saveMessagesPhoto(**response)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/vk_api/vk_api.py", line 681, in __call__
+    return self._vk.method(self._method, kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/vk_api/vk_api.py", line 646, in method
+    raise error
+vk_api.exceptions.ApiError: [100] One of the parameters specified was missing or invalid: photo is undefined
+2019-12-03 22:36:23,395 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:36:27,799 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:36:29,587 DEBUG Обработка intent Дата проведения
+2019-12-03 22:36:29,692 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:38:04,042 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:38:06,122 DEBUG Обработка intent Приветствие
+2019-12-03 22:38:06,225 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:38:09,061 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:38:10,430 DEBUG Обработка intent Дата проведения
+2019-12-03 22:38:10,771 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:38:13,991 DEBUG Обработка intent Место проведения
+2019-12-03 22:38:14,848 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 92, in on_event
+    self.send_intent(intent, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 164, in send_intent
+    self.send_image(intent['answer_image'], user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 138, in send_image
+    img_data = self.api.photos.saveMessagesPhoto(**response)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/vk_api/vk_api.py", line 681, in __call__
+    return self._vk.method(self._method, kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/vk_api/vk_api.py", line 646, in method
+    raise error
+vk_api.exceptions.ApiError: [100] One of the parameters specified was missing or invalid: photo is undefined
+2019-12-03 22:38:14,872 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:39:42,642 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:39:45,167 DEBUG Обработка intent Приветствие
+2019-12-03 22:39:45,310 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:39:48,412 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:39:49,972 DEBUG Обработка intent Место проведения
+2019-12-03 22:48:22,401 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:48:24,017 DEBUG Обработка intent Место проведения
+2019-12-03 22:50:21,777 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:50:25,148 DEBUG Интент не распознан
+2019-12-03 22:50:25,185 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:50:28,850 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:50:34,137 DEBUG Обработка intent Место проведения
+2019-12-03 22:51:05,687 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 92, in on_event
+    self.send_intent(intent, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 165, in send_intent
+    self.send_image(f, user_id)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 137, in send_image
+    response = requests.post(url=upload_url, files={'photo': ('ticket.png', image, 'image/png')}).json()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/requests/api.py", line 116, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/requests/sessions.py", line 519, in request
+    prep = self.prepare_request(req)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/requests/sessions.py", line 462, in prepare_request
+    hooks=merge_hooks(request.hooks, self.hooks),
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_body(data, files, json)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/requests/models.py", line 504, in prepare_body
+    (body, content_type) = self._encode_files(files, data)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/requests/models.py", line 159, in _encode_files
+    fdata = fp.read()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+2019-12-03 22:51:11,794 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:51:57,067 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:52:02,300 DEBUG Обработка intent Место проведения
+2019-12-03 22:53:46,053 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:53:50,445 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:53:54,690 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:54:30,105 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:54:32,030 DEBUG Обработка intent Приветствие
+2019-12-03 22:54:32,151 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:54:35,279 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:54:37,129 DEBUG Обработка intent Место проведения
+2019-12-03 22:54:38,604 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:54:38,605 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2019-12-03 22:54:40,801 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2019-12-03 22:54:42,545 DEBUG Обработка intent Дата проведения
+2019-12-03 22:54:42,653 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:31:05,307 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:31:11,050 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:31:16,048 DEBUG Обработка intent Приветствие
+2020-01-19 18:31:16,187 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:31:21,880 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:31:24,638 DEBUG Обработка intent Регистрация
+2020-01-19 18:31:24,759 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:31:27,367 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:31:28,547 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:31:32,940 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:31:37,360 INFO Зарегистрирован участник ывапро email: fgh@xcvbn.gh
+2020-01-19 18:31:37,499 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:33:28,317 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:33:33,432 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:33:34,387 DEBUG Обработка intent Место проведения
+2020-01-19 18:33:34,498 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:14,494 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:46:18,823 DEBUG Обработка intent Приветствие
+2020-01-19 18:46:19,038 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:19,038 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:23,464 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:46:25,063 DEBUG Обработка intent Место проведения
+2020-01-19 18:46:25,399 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:25,400 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:37,859 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:46:40,007 DEBUG Обработка intent Регистрация
+2020-01-19 18:46:40,115 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:40,116 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:43,353 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:46:44,454 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:44,454 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:51,621 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 18:46:56,391 INFO Зарегистрирован участник апро email: dfg@sdfg.fgh
+2020-01-19 18:46:56,530 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 18:46:56,531 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:43:03,894 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:43:07,862 DEBUG Обработка intent Место проведения
+2020-01-19 19:43:08,104 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:43:08,105 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:40,809 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:46:40,811 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:46:44,939 DEBUG Обработка intent Приветствие
+2020-01-19 19:46:45,170 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:45,171 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:45,171 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:45,230 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:45,230 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:45,230 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:54,790 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:46:54,791 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:46:56,652 DEBUG Обработка intent Приветствие
+2020-01-19 19:46:56,813 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:56,814 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:56,815 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:56,934 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:56,934 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:46:56,934 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:47:02,847 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:47:02,853 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:47:04,204 DEBUG Обработка intent Место проведения
+2020-01-19 19:47:04,341 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:47:04,341 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:47:04,341 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:47:04,404 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:47:04,405 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:47:04,405 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:48:48,023 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:48:48,035 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:48:50,265 DEBUG Обработка intent Приветствие
+2020-01-19 19:48:50,694 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:48:50,695 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 19:52:50,550 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:52:50,552 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 19:52:52,844 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 79, in on_event
+    user_id = int(event.object.peer_id)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2020-01-19 20:01:26,075 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:02:59,901 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:03:03,563 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:04:49,747 INFO Сценарий registration завершен
+2020-01-19 20:05:40,824 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:05:46,008 DEBUG Обработка intent Приветствие
+2020-01-19 20:05:46,150 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:05:46,150 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:05:48,866 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:05:49,799 DEBUG Обработка intent Место проведения
+2020-01-19 20:05:51,438 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:05:51,438 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:05:51,439 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:05:54,202 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:05:55,930 DEBUG Обработка intent Дата проведения
+2020-01-19 20:05:56,135 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:05:56,135 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:05:59,413 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:06:01,554 DEBUG Обработка intent Регистрация
+2020-01-19 20:06:01,768 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 543, in new_func
+    reraise(exc_type, exc, tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 529, in new_func
+    commit()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 381, in commit
+    rollback_and_reraise(sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 370, in rollback_and_reraise
+    reraise(*exc_info)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 379, in commit
+    cache.flush()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1891, in flush
+    if obj is not None: obj._save_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5393, in _save_
+    if status == 'created': obj._save_created_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5237, in _save_created_
+    % (obj, e.__class__.__name__, msg), e)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 106, in throw
+    raise exc
+pony.orm.core.TransactionIntegrityError: Object UserStates[new:1] cannot be stored in the database. IntegrityError: duplicate key value violates unique constraint "userstates_user_id_key"
+DETAIL:  Key (user_id)=(26174553) already exists.
+
+2020-01-19 20:06:01,800 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:01,800 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:04,447 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:06:05,373 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 543, in new_func
+    reraise(exc_type, exc, tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 529, in new_func
+    commit()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 381, in commit
+    rollback_and_reraise(sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 370, in rollback_and_reraise
+    reraise(*exc_info)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 379, in commit
+    cache.flush()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1891, in flush
+    if obj is not None: obj._save_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5394, in _save_
+    elif status == 'modified': obj._save_updated_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5305, in _save_updated_
+    throw(OptimisticCheckError, obj.find_updated_attributes())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 106, in throw
+    raise exc
+pony.orm.core.OptimisticCheckError: Object UserStates[7] was updated outside of current transaction. Changes: step ('step1' -> 'step2'), context ('{}' -> '{"name": "апро"}')
+2020-01-19 20:06:05,389 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:05,390 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:09,548 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:06:14,662 INFO Сценарий registration завершен
+2020-01-19 20:06:14,695 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:14,696 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:14,696 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:23,426 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:06:28,479 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:06:32,478 DEBUG Обработка intent Регистрация
+2020-01-19 20:06:32,593 ERROR ошибка при обработке события
+Traceback (most recent call last):
+  File "/home/olya/PycharmProjects/python_base/chatbot/chatbot.py", line 65, in run
+    self.on_event(evn)
+  File "<string>", line 2, in on_event
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 543, in new_func
+    reraise(exc_type, exc, tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 529, in new_func
+    commit()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 381, in commit
+    rollback_and_reraise(sys.exc_info())
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 370, in rollback_and_reraise
+    reraise(*exc_info)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 379, in commit
+    cache.flush()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 1891, in flush
+    if obj is not None: obj._save_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5393, in _save_
+    if status == 'created': obj._save_created_()
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/orm/core.py", line 5237, in _save_created_
+    % (obj, e.__class__.__name__, msg), e)
+  File "/home/olya/PycharmProjects/python_base/venv/lib/python3.7/site-packages/pony/utils/utils.py", line 106, in throw
+    raise exc
+pony.orm.core.TransactionIntegrityError: Object UserStates[new:3] cannot be stored in the database. IntegrityError: duplicate key value violates unique constraint "userstates_user_id_key"
+DETAIL:  Key (user_id)=(26174553) already exists.
+
+2020-01-19 20:06:32,605 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:32,606 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:37,692 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:06:39,375 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:39,377 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:06:59,056 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:07:01,327 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:07:01,329 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:07:04,494 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:07:09,546 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:07:12,428 INFO Сценарий registration завершен
+2020-01-19 20:07:12,455 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:07:12,456 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:07:12,456 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:12:05,823 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:12:08,732 DEBUG Обработка intent Приветствие
+2020-01-19 20:12:08,919 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:12:08,919 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:15:36,466 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:15:41,537 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 20:15:42,087 DEBUG Обработка intent Приветствие
+2020-01-19 20:15:42,209 DEBUG Сообщение отправлено Приветствую вас! Меня зовут Бот. Я могу сказать когда и где пройдет конференция и зарегистрировать вас.
+2020-01-19 20:15:42,226 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 20:15:42,227 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 21:00:38,170 DEBUG событие типа VkBotEventType.MESSAGE_TYPING_STATE не обрабатывается
+2020-01-19 21:00:41,540 DEBUG Сообщение отправлено Не знаю как ответить на ваш вопрос. Могу сказать когда и где пройдет конференция и зарегистрировать вас.
+2020-01-19 21:00:41,541 DEBUG Интент не распознан
+2020-01-19 21:00:41,558 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
+2020-01-19 21:00:41,558 DEBUG событие типа VkBotEventType.MESSAGE_REPLY не обрабатывается
